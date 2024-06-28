@@ -15,15 +15,15 @@
     "test:ember": "pnpm --filter '*' test:ember"
   },
   "devDependencies": {
-    "@glint/core": "^1.2.1",
-    "concurrently": "^8.2.0",
-    "prettier": "^3.0.3",
+    "@glint/core": "^1.4.0",
+    "concurrently": "^8.2.2",
+    "prettier": "^3.3.2",
     "prettier-plugin-ember-template-tag": "^1.1.0"
   },
   "pnpm": {
     "overrides": {
-      "@types/eslint": "^7.0.0"
+      "@types/eslint": "^7.29.0"
     }
   },
-  "packageManager": "pnpm@8.13.1+sha256.9e5f62ce5f2b7d4ceb3c2848f41cf0b33032c24d683c7088b53f62b1885fb246"
+  "packageManager": "pnpm@9.4.0"
 }
